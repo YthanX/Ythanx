@@ -5,7 +5,7 @@
   />
 
   <p>
-    <code>Born 200X-XX-XX</code>
+    <code>Born 2006-10-12</code>
     <code>Optics & Photonics</code>
     <code>Optoelectronics Undergrad</code>
   </p>
