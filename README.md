@@ -5,12 +5,12 @@
   />
 
   <p>
-    <code>Optoelectronics Undergraduate</code>
-    <code>Photonics</code>
-    <code>Learning by Building</code>
+    <code>Born 200X-XX-XX</code>
+    <code>Optics & Photonics</code>
+    <code>Optoelectronics Undergrad</code>
   </p>
 </div>
 
-- 光电信息科学与工程本科生
-- 目前主要关注集成光学、光学建模与嵌入式系统
-- 喜欢从具体问题出发，把一个问题不断往更深处推进
+- Interested in optics, photonics and embedded systems
+- I like pushing a concrete problem one step further
+- Keep building, keep improving
