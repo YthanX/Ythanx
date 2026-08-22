@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="left">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=C98A4A&pause=100000&lines=Hi,+I'm+Ythan."
+    alt="Hi, I'm Ythan."
+  />
 
-<!--
-**YthanX/Ythanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <code>Optoelectronics Undergraduate</code>
+    <code>Photonics</code>
+    <code>Learning by Building</code>
+  </p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 光电信息科学与工程本科生
+- 目前主要关注集成光学、光学建模与嵌入式系统
+- 喜欢从具体问题出发，把一个问题不断往更深处推进
